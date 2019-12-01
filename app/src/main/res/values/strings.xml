@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppFarmacia</string>
+    <string name="pesquisar_produto">Pesquisar Produto</string>
+    <string name="consultar">Consultar</string>
+    <string name="digite_o_nome_do_produto_para_a_compra">Digite o Nome do Produto Para a Compra</string>
+</resources>
